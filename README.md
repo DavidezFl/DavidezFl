@@ -6,7 +6,7 @@ Quién Soy?
 
 Soy un Programador Fullstack con formación como desarrollador web.
 
-Empecé a aprender sobre desarrollo web hace cinco años, desde entonces me he especializado en ello.
+Empecé a aprender sobre desarrollo web hace dos años, desde entonces me he especializado en ello.
 
 Qué Hago?
 
