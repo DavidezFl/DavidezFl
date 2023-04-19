@@ -18,4 +18,4 @@ A dónde me dirijo?
 Mi objetivo principal es poder crear todo lo que sea posible.
 
 
-Experiencia trabajando en Javascript, React.js, Redux, PostgreSQL, Node.js, Express.js entre otras tecnologías del sector.
+Experiencia trabajando en Javascript, React.js, Redux, PostgreSQL, Node.js, Express.js, MongoDb.
