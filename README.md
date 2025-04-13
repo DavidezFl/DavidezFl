@@ -6,11 +6,10 @@ Quién Soy?
 
 Soy un Programador Fullstack con formación como desarrollador web.
 
-Empecé a aprender sobre desarrollo web hace tresh años, desde entonces me he especializado en ello.
 
 Qué Hago?
 
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador.
+Actualmente me dedico a realizar proyectos que me permiten avanzar como programador.
 
 
 A dónde me dirijo?
